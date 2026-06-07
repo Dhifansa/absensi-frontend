@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef, useCallback } from "react";
 
 // ─── Config ─────────────────────────────────────────────────────────────────
-const API = "https://absensi-backend-pjxt.vercel.app/api";// Ganti sesuai URL Laravel Anda
+const API = "https://absensi-backend-production-3f17.up.railway.app/api";// Ganti sesuai URL Laravel Anda
 
 // ─── QR Library via CDN (qrcode.react alternative: pure JS) ─────────────────
 // Pakai qrcode CDN via script tag, injected once
